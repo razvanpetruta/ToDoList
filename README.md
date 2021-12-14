@@ -11,4 +11,4 @@ more organised. Your data will be saved in a [MongoDB Atlas database](https://ww
 - [mongoose](https://mongoosejs.com/)
 
 ## Check it out
-- [visit](https://fathomless-everglades-30516.herokuapp.com/)
+- [visit](https://fathomless-everglades-30516.herokuapp.com/) (currently unavailable)
